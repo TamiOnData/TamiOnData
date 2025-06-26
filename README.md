@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I’m Oluwatamilore Adeniran — but you can call me Tami!
 
-<!--
-**TamiOnData/TamiOnData** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Aspiring Data Analyst passionate about transforming raw data into meaningful insights  
+💼 Skilled in Excel, SQL, Tableau, Python, and Power BI  
+🧠 I enjoy cleaning messy datasets, visualizing trends, and solving real-world problems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+
+- 📈 Building my portfolio with real-world projects  
+- 📊 Learning Python for data cleaning and automation  
+- 🧠 Practicing data storytelling with Power BI & Tableau
+
+---
+
+## 🤝 Open To
+
+- Collaborating on beginner Python or data visualization projects  
+- Internship opportunities in data analytics or business intelligence  
+- Connecting with other learners and professionals in the data space
+
+---
+
+## 📫 Let’s Connect
+
+- 🌍 Based in Nigeria  
+- 📧 Email: oluwatamiloreadeniran07@gmail.com  
+- 💼 LinkedIn: [www.linkedin.com/in/oluwatamiloreadeniran07] 
+
+---
+
+> “I don’t just clean data — I find the story inside it.”
+
