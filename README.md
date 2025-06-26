@@ -1,7 +1,6 @@
 # 👋 Hi, I’m Oluwatamilore Adeniran — but you can call me Tami!
 
 📊 Aspiring Data Analyst passionate about transforming raw data into meaningful insights  
-💼 Skilled in Excel, SQL, Tableau, Python, and Power BI  
 🧠 I enjoy cleaning messy datasets, visualizing trends, and solving real-world problems  
 
 ---
@@ -11,6 +10,7 @@
 - 📈 Building my portfolio with real-world projects  
 - 📊 Learning Python for data cleaning and automation  
 - 🧠 Practicing data storytelling with Power BI & Tableau
+- 🗃️ Practicing data cleaning, filtering, and transformation using SQL for real-world datasets
 
 ---
 
