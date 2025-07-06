@@ -7,7 +7,7 @@
 ## 🚀 Current Focus
 
 - 📈 Building my portfolio with real-world projects
-- 💻 Completing frontend projects with React + Tailwind
+- 💻 Currently learning React and Tailwind CSS to build clean, responsive frontend interfaces.
 - 📊 Learning Python for data cleaning and automation  
 - 🧠 Practicing data storytelling with Power BI & Tableau
 - 🗃️ Practicing data cleaning, filtering, and transformation using SQL for real-world datasets
