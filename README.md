@@ -14,14 +14,6 @@
 
 ---
 
-## 🤝 Open To
-
-- Collaborating on beginner Python or data visualization projects  
-- Internship opportunities in data analytics or business intelligence  
-- Connecting with other learners and professionals in the data space
-
----
-
 ## 📫 Let’s Connect
 
 - 🌍 Based in Nigeria  
